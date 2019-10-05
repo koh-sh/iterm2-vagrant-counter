@@ -1,7 +1,7 @@
 # iterm2-vagrant-counter
 iTerm2 component for status bar which shows number of vagrant VMs.
 
-![](imgs/statusbar.png)
+![](img/statusbar.png)
 
 🔵 -> Running VM
 ⚫ -> Stopped VM
@@ -19,4 +19,3 @@ iTerm2 component for status bar which shows number of vagrant VMs.
 
 install.sh creates symbolic link for the script.  
 After this, relaunch iTerm2.
-
